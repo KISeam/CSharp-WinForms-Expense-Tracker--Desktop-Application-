@@ -1,4 +1,4 @@
-# C-WinForms-Expense-Tracker-(Desktop-Application)
+# CSharp-WinForms-Expense-Tracker-(Desktop-Application)
 
 A modern Windows Forms Expense Tracker application developed using C# and .NET 10.0.
 This project demonstrates GUI application development, event-driven programming, object-oriented programming, and dynamic UI updates for personal finance tracking.
