@@ -13,7 +13,7 @@ The system automatically calculates total spending and maintains a live expense 
 ### Features:
 
 * Add personal expenses
-* Category-based expense tracking
+* Category-based expense tracking 
 * Real-time total expense calculation
 * Dynamic expense history display
 * Input validation and error handling
